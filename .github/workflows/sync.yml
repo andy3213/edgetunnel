@@ -39,4 +39,3 @@ jobs:
           echo "[Error] Due to a change in the workflow file of the upstream repository, GitHub has automatically suspended the scheduled automatic update. You need to manually sync your fork. Please refer to the project README.md for instructions. "
           exit 1
 
-          
